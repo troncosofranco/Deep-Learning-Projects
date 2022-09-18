@@ -1,2 +1,3 @@
-# Deep-learning
-Neural Network Projects
+# Deep-learning-Projetcs
+
+Deep learning projects
